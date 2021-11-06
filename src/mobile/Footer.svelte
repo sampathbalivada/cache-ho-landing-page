@@ -95,10 +95,6 @@
         height: 24px;
     }
 
-    .link {
-        font-weight: 600;
-    }
-
     a {
         color: white;
     }
