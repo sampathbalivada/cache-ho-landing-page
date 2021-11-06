@@ -1,8 +1,3 @@
-<script>
-    let description = "";
-    let description_2 = "";
-</script>
-
 <div id="description">
     <h2>
         <!-- <strong> -->
@@ -15,7 +10,7 @@
         <strong>"How?"</strong> you ask. Factually, we are a group of engineers
         and our idea is to bring a change in the scenario of
         <strong>“ENGINEERING”</strong>
-        in 2 states of India, Andhra Pradesh and Telangana which produces a lot
+        in 2 states of India, Andhra Pradesh and Telangana that produce a lot
         of engineers. We are doing this to prove that Engineering is an art and
         not just a degree by bringing
         <i>
